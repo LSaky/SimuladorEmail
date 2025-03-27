@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const error = document.createElement("P");
         error.textContent = "Digita algo"
 
-        console.log(error);
+        console.log(errroooooooooooorrroroororor);
     }
 });
+
